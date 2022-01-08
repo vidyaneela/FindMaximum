@@ -28,7 +28,10 @@ def max_marks(marks):
     # write your code here
     a=max(marks)
     return a
+<<<<<<< HEAD
 
+=======
+>>>>>>> b522835a79e28b0b14ad1198974ff808c4c9cb95
 
 
 ```
@@ -42,6 +45,10 @@ def max_marks(list1):
         if i>max_mark:
             max_mark=i
     return max_mark
+<<<<<<< HEAD
+=======
+
+>>>>>>> b522835a79e28b0b14ad1198974ff808c4c9cb95
 
 
 ```
